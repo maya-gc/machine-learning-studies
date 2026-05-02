@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" alt="Deep Neural Network Visualization">
 
 > Repositório dedicado a estudos de Machine Learning com foco em projetos práticos, experimentos e comparações entre modelos clássicos e modernos aplicados a problemas reais como detecção de spam.
 
