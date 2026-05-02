@@ -1,13 +1,14 @@
 # Machine Learning Studies - Spam Detection Comparison
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/maya-gc/machine-learning-studies?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/maya-gc/machine-learning-studies?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/maya-gc/machine-learning-studies?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/maya-gc/machine-learning-studies?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/maya-gc/machine-learning-studies?style=for-the-badge)
 
 <img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/a9433380-1cc0-495c-9ec5-feb083348b1a" />
 
+---
 
 > Repositório dedicado a estudos de Machine Learning com foco em projetos práticos, experimentos e comparações entre modelos clássicos e modernos aplicados a problemas reais como detecção de spam.
 
